@@ -1,0 +1,5 @@
+C:\Users\DECAGON\source\repos\test\AnotherAssembly\obj\Debug\net8.0\AnotherAssembly.csproj.AssemblyReference.cache
+C:\Users\DECAGON\source\repos\test\AnotherAssembly\obj\Debug\net8.0\AnotherAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\repos\test\AnotherAssembly\obj\Debug\net8.0\AnotherAssembly.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\repos\test\AnotherAssembly\obj\Debug\net8.0\AnotherAssembly.AssemblyInfo.cs
+C:\Users\DECAGON\source\repos\test\AnotherAssembly\obj\Debug\net8.0\AnotherAssembly.csproj.CoreCompileInputs.cache
